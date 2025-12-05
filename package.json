@@ -1,0 +1,19 @@
+{
+  "name": "github-to-vscode",
+  "version": "1.0.0",
+  "description": "A step-by-step workflow that instructs how to create a repo from GutHub to VS Code and installing the necessary dependencies and scripts needed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "node": "^20.19.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
